@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="library_final_nao-8844e8" installOnlyAtStartup="false">
+ <names>
+  <name lang="en_US">Untitled</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <dialogContent topicName="intro" typeVersion="1.0">
+   <topic language="en_US" path="intro/intro_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="close" typeVersion="1.0">
+   <topic language="en_US" path="close/close_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="fiction" typeVersion="1.0">
+   <topic language="en_US" path="fiction/fiction_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="nonfiction" typeVersion="1.0">
+   <topic language="en_US" path="nonfiction/nonfiction_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="choose" typeVersion="1.0">
+   <topic language="en_US" path="choose/choose_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="primary" typeVersion="1.0">
+   <topic language="en_US" path="primary/primary_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="high" typeVersion="1.0">
+   <topic language="en_US" path="high/high_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="p1" typeVersion="1.0">
+   <topic language="en_US" path="p1/p1_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="p2" typeVersion="1.0">
+   <topic language="en_US" path="p2/p2_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="p3" typeVersion="1.0">
+   <topic language="en_US" path="p3/p3_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="m1" typeVersion="1.0">
+   <topic language="en_US" path="m1/m1_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="m2" typeVersion="1.0">
+   <topic language="en_US" path="m2/m2_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="m3" typeVersion="1.0">
+   <topic language="en_US" path="m3/m3_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="h1" typeVersion="1.0">
+   <topic language="en_US" path="h1/h1_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="h2" typeVersion="1.0">
+   <topic language="en_US" path="h2/h2_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="h3" typeVersion="1.0">
+   <topic language="en_US" path="h3/h3_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="general" typeVersion="1.0">
+   <topic language="en_US" path="general/general_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="first" typeVersion="1.0">
+   <topic language="en_US" path="first/first_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="second" typeVersion="1.0">
+   <topic language="en_US" path="second/second_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="third" typeVersion="1.0">
+   <topic language="en_US" path="third/third_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="first1" typeVersion="1.0">
+   <topic language="en_US" path="first1/first1_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="second1" typeVersion="1.0">
+   <topic language="en_US" path="second1/second1_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="third1" typeVersion="1.0">
+   <topic language="en_US" path="third1/third1_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="four1" typeVersion="1.0">
+   <topic language="en_US" path="four1/four1_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="first2" typeVersion="1.0">
+   <topic language="en_US" path="first2/first2_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="second2" typeVersion="1.0">
+   <topic language="en_US" path="second2/second2_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="third2" typeVersion="1.0">
+   <topic language="en_US" path="third2/third2_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="four2" typeVersion="1.0">
+   <topic language="en_US" path="four2/four2_enu.top"/>
+  </dialogContent>
+  <dialogContent topicName="test" typeVersion="1.0">
+   <topic language="en_US" path="test/test_enu.top"/>
+  </dialogContent>
+ </contents>
+</package>
